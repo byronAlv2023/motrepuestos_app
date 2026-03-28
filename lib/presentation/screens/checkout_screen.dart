@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../viewmodels/carrito_viewmodel.dart';
-import '../../core/utils/session_service.dart';
-import 'login_screen.dart';
 
 class CheckoutScreen extends StatelessWidget {
   const CheckoutScreen({super.key});

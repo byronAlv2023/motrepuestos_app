@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../../core/utils/session_service.dart';
 
 class LoginViewModel extends ChangeNotifier {
   final TextEditingController emailController = TextEditingController();
